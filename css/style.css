@@ -44,3 +44,12 @@ h4,
   background-attachment: fixed;
   background-size: cover;
 }
+
+/* contact.html  Contact 섹션 */
+.contact-bg {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+    url(../images/contact-bg.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
